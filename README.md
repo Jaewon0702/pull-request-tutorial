@@ -27,6 +27,8 @@ jay2/pull-request-tutorial fork 후 수정
 
 jay3/pull-request-tutorial fork 후 수정
 
+20200709 jay 수정 연습
+
 s2uyeoii/pull-request-tutorial fork 후 수정
 
 20200709 r
